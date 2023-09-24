@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    
+    <array name="Kota_asal">
+        <item>Kota Asal</item>
+        <item>Yogyakarta</item>
+        <item>Solo</item>
+        <item>Semarang</item>
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Surabaya</item>
+    </array>
+
+    <array name="Kota_tujuan">
+        <item>Kota Tujuan</item>
+        <item>Yogyakarta</item>
+        <item>Solo</item>
+        <item>Semarang</item>
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Surabaya</item>
+    </array>
+</resources>
